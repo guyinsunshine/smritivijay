@@ -16,6 +16,12 @@ img {
 	display: flex;
 }
 
+container {
+	width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
 row {
   display: flex;
 }
